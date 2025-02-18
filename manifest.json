@@ -1,7 +1,7 @@
 {
   "name": "jack-smith",
   "short_name": "jack-smith",
-  "start_url": "./",
+  "start_url": "https://pokemogukunns.github.io/kids-games/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
